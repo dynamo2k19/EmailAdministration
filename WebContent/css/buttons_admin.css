@@ -1,0 +1,64 @@
+#insert
+  {
+  	background-color: #00C851;
+  	height: 200px; 
+  	cursor: pointer;
+  	text-align: center;
+  	padding: 70px 0;
+  	font-family: cursive;
+  	font-size: 32px;
+  	font-weight: bold;
+  	border-radius: 25px;
+  }
+  
+  #update
+  {
+  	background-color: #ffbb33;
+  	height: 200px; 
+  	cursor: pointer;
+  	text-align: center;
+  	padding: 70px 0;
+  	font-family: cursive;
+  	font-size: 32px;
+  	font-weight: bold;
+  	border-radius: 25px;
+  }
+  
+  #select
+  {
+  	background-color: #33b5e5;
+  	height: 200px; 
+  	cursor: pointer;
+  	text-align: center;
+  	padding: 70px 0;
+  	font-family: cursive;
+  	font-size: 32px;
+  	font-weight: bold;
+  	border-radius: 25px;
+  }
+  
+  #delete
+  {
+  	border-radius: 25px;
+  	background-color: #ff0000;
+  	height: 200px;
+  	cursor: pointer;
+  	text-align: center;
+  	padding: 70px 0;
+  	font-family: cursive;
+  	font-size: 32px;
+  	font-weight: bold;
+  }
+  
+  #feedback
+  {
+  	border-radius: 25px;
+  	background-color: #ff1aff;
+  	height: 200px;
+  	cursor: pointer;
+  	text-align: center;
+  	padding: 70px 0;
+  	font-family: cursive;
+  	font-size: 32px;
+  	font-weight: bold;
+  }

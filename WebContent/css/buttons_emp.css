@@ -1,0 +1,39 @@
+#update
+  {
+  	background-color: #ffbb33;
+  	height: 200px; 
+  	cursor: pointer;
+  	text-align: center;
+  	padding: 70px 0;
+  	font-family: cursive;
+  	font-size: 32px;
+  	font-weight: bold;
+  	border-radius: 25px;
+  	
+  }
+  
+  #select
+  {
+  	background-color: #33b5e5;
+  	height: 200px; 
+  	cursor: pointer;
+  	text-align: center;
+  	padding: 70px 0;
+  	font-family: cursive;
+  	font-size: 32px;
+  	font-weight: bold;
+  	border-radius: 25px;
+  }
+  
+  #feedback
+  {
+  	background-color: #00C851;
+  	height: 200px; 
+  	cursor: pointer;
+  	text-align: center;
+  	padding: 70px 0;
+  	font-family: cursive;
+  	font-size: 32px;
+  	font-weight: bold;
+  	border-radius: 25px;
+  }
